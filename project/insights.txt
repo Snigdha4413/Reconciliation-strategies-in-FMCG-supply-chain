@@ -1,0 +1,8 @@
+At the Total level the best reconciliation method was Middle-out (Store) (MASE 1.612) versus 1.670 for the unreconciled base forecast (+3.4%).
+At the State level the best reconciliation method was Middle-out (Store) (MASE 1.780) versus 1.812 for the unreconciled base forecast (+1.7%).
+At the Store level the best reconciliation method was Middle-out (Store) (MASE 1.802) versus 1.802 for the unreconciled base forecast (-0.0%).
+At the Item level the best reconciliation method was Bottom-up (MASE 3.592) versus 3.592 for the unreconciled base forecast (+0.0%).
+Averaged over all four levels, WLS reconciliation was best (MASE 2.222).
+Unreconciled forecasts disagreed with each other by about 1.5% at the Total level (Total forecast vs sum of item forecasts).
+Bottom-up improved on the base forecast for 57% of the series it changed (Wilcoxon p = 0.4203).
+For intermittent (>40%) items, the best method was Bottom-up (MASE 7.303) versus 7.303 for bottom-up.
